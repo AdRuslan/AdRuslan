@@ -10,5 +10,5 @@
 ![JAVASCRIPT](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)
 ![VUE](https://img.shields.io/badge/vue-black?style=for-the-badge&logo=vue.js)
 
-## :globe_with_meridians: Find me on social networks: [instagram](https://www.instagram.com/mashiro1499/?hl=ru), [vk](https://vk.com/rus.adigamov)
+## :globe_with_meridians: Find me on social networks: [vk](https://vk.com/rus.adigamov)
 ## 📧 My email: russian.adig@mail.ru
