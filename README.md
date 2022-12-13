@@ -1,6 +1,6 @@
 # 👋 Hi, my name is Ruslan Adigamov!
 
-## :unicorn: I'm a junior Front-end developer from Moscow
+## :unicorn: I'm a batya Front-end developer from Moscow
 
 ## :student: Student of Moscow Polytechnic University
 
