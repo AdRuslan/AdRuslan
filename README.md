@@ -11,6 +11,7 @@
 ![TYPESCRIPT](https://img.shields.io/badge/typescript-black?style=for-the-badge&logo=typescript)
 ![RXJS](https://img.shields.io/badge/rxjs-black?style=for-the-badge&logo=rxjs)
 ![ANGULAR](https://img.shields.io/badge/angular-black?style=for-the-badge&logo=angular)
+![REACT](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)
 
 ## :globe_with_meridians: Find me on social networks: [vk](https://vk.com/rus.adigamov)
 ## 📧 My email: russian.adig@mail.ru
